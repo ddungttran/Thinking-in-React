@@ -1,1 +1,1 @@
-# Thingking-in-React
+# Thinking-in-React
